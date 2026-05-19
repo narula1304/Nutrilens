@@ -10,7 +10,7 @@ backend/**/*.pyc
 # Local DB / env
 backend/nutrilens.db
 .env
-*.env
+*.env 
 
 # OS/editor
 .DS_Store
