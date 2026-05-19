@@ -1,0 +1,19 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Local DB / env
+backend/nutrilens.db
+.env
+*.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
